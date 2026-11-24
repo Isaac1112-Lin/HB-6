@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "Community Maintainer"
+  },
+  "description": "Walmart售后英文邮件生成、No Haggling合规审核和大件家具退货专项处理。",
+  "interface": {
+    "capabilities": [
+      "Interactive"
+    ],
+    "category": "Other",
+    "developerName": "Community Maintainer",
+    "displayName": "Walmart Customer Service Compliance",
+    "longDescription": "英文客服邮件生成、退款议价拦截及大件家具退货合规审核。",
+    "shortDescription": "沃尔玛售后客服合规助手"
+  },
+  "name": "walmart-customer-service-compliance",
+  "skills": "./skills/",
+  "version": "1.1.0"
+}
